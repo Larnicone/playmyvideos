@@ -24,7 +24,7 @@ msgstr "Nouvelle couverture..."
 
 #: ../src/Widgets/VideoTimeLine.vala:148
 msgid "Repeat"
-msgstr ""
+msgstr "Répéter"
 
 #: ../src/Widgets/VideoTimeLine.vala:174
 msgid "Track %d (%s)"
@@ -98,7 +98,7 @@ msgstr "Ré-indexer la bibliothèque"
 
 #: ../src/MainWindow.vala:174
 msgid "Preferences"
-msgstr ""
+msgstr "Préférences"
 
 #: ../src/MainWindow.vala:192
 msgid "Search Videos"
@@ -110,4 +110,4 @@ msgstr "Bibliothèque"
 
 #: ../src/Dialogs/Preferences.vala:60
 msgid "Use Dark Theme"
-msgstr ""
+msgstr "Utiliser le thème sombre"
